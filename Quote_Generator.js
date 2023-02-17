@@ -68,19 +68,3 @@ newQuoteButton.addEventListener('click', newQuote)
 twitterButton.addEventListener('click', tweetQuote)
 // On Load //
 getQuotes();
-
-var a = new String("Hello");
-
-var b = "Hello";
-
-if (a ===b){
-
-alert("Same");
-
-}else{
-
-alert("Different");
-
-}
-
-console.log(b);
