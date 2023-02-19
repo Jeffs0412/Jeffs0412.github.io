@@ -69,18 +69,18 @@ twitterButton.addEventListener('click', tweetQuote)
 // On Load //
 getQuotes();
 
-var a = new String("Hello");
+// var a = new String("Hello");
 
-var b = "Hello";
+// var b = "Hello";
 
-if (a ===b){
+// if (a ===b){
 
-alert("Same");
+// alert("Same");
 
-}else{
+// }else{
 
-alert("Different");
+// alert("Different");
 
-}
+// }
 
-console.log(b);
+// console.log(b);
