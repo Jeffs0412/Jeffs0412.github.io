@@ -66,21 +66,3 @@ twitterButton.addEventListener('click', tweetQuote)
 
 getQuotes();
 
-<<<<<<< HEAD:Quote_Generator.js
-// var a = new String("Hello");
-
-// var b = "Hello";
-
-// if (a ===b){
-
-// alert("Same");
-
-// }else{
-
-// alert("Different");
-
-// }
-
-// console.log(b);
-=======
->>>>>>> ba631b57a60d16ad41a1e1863b8e8fe77d85f5cb:script.js
